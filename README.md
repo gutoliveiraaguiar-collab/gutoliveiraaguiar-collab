@@ -17,7 +17,7 @@ Minha missão é criar experiências digitais que não sejam apenas bonitas, mas
 - 🔭 Atualmente estou trabalhando em: **Projetos Acadêmicos e Portfólio Pessoal**
 - 🌱 Estou aprendendo: **React.js e TypeScript**
 - 👯 Procuro colaborar em: **Projetos Open Source de Front-End**
-- 📫 Como me encontrar: **gutoliveira.aguilar@gmail.com**
+- 📫 Como me encontrar: **gutoliveira.aguiar@gmail.com**
 
 ### 🛠️ Tech Stack & Ferramentas
 
