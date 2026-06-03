@@ -5,7 +5,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-aguiar-de-oliveira-714a523b5/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gutoliveiraaguilar-collab)
-
+[![Portfólio Online](https://img.shields.io/badge/-Portfólio_Online-000000?style=for-the-badge&logo=github&logoColor=white)](https://gutoliveiraaguiar-collab.github.io/) 
+[![GitHub Pages](https://img.shields.io/badge/-Projetos_GitHub_Pages-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://gutoliveiraaguiar-collab.github.io/focusflow-landing-page/)
 ---
 
 ### 🚀 Sobre mim
