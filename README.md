@@ -1,24 +1,25 @@
-### Olá, eu sou o Gustavo Henrique 👋
+### Hello, I'm Gustavo Henrique 👋
 
-📍 **Caxias, Maranhão | Brasil**
+📍 **Caxias, Maranhão | Brazil**
 📧 **gutoliveira.aguiar@gmail.com**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-aguiar-de-oliveira-714a523b5/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gutoliveiraaguilar-collab)
+
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-Sou Desenvolvedor **Front-End** em formação, apaixonado por transformar designs em código limpo e interfaces responsivas. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na UNIFACEMA (Caxias/MA)**.
+I'm a **Front-End** Developer in training, passionate about turning designs into clean code and responsive interfaces. Currently pursuing a degree in **Systems Analysis and Development at UNIFACEMA (Caxias/MA)**.
 
-Minha missão é criar experiências digitais que não sejam apenas bonitas, mas também rápidas e acessíveis para todos os usuários. Estou sempre buscando evoluir minhas habilidades com as tecnologias mais modernas do mercado.
+My mission is to create digital experiences that are not only beautiful but also fast and accessible to all users. I'm always looking to improve my skills with the latest technologies in the market.
 
-- 🔭 Atualmente estou trabalhando em: **Projetos Acadêmicos e Portfólio Pessoal**
-- 🌱 Estou aprendendo: **React.js e TypeScript**
-- 👯 Procuro colaborar em: **Projetos Open Source de Front-End**
-- 📫 Como me encontrar: **gutoliveira.aguiar@gmail.com**
+- 🔭 I'm currently working on: **Academic Projects and Personal Portfolio**
+- 🌱 I'm currently learning: **React.js and TypeScript**
+- 👯 I'm looking to collaborate on: **Open Source Front-End Projects**
+- 📫 How to reach me: **gutoliveira.aguiar@gmail.com**
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,4 +29,4 @@ Minha missão é criar experiências digitais que não sejam apenas bonitas, mas
 
 ---
 
-*"Construindo o futuro da web, um componente por vez."*
+*"Building the future of the web, one component at a time."*
