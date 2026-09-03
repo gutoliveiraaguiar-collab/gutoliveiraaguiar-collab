@@ -13,8 +13,8 @@
 * 🎓 Systems Analysis and Development student
 * 🌐 Focused on Web Development
 * ⚛️ Currently learning React and TypeScript
-* ⚙️ **Back-end Development — Currently Learning**
-* 🗄️ **Databases & SQL — Currently Learning**
+* ⚙️ **Back-end Development - Currently Learning**
+* 🗄️ **Databases & SQL - Currently Learning**
 * 🔧 Building academic and personal projects
 * 📚 Constantly learning and improving my development skills
 
@@ -26,7 +26,7 @@
 
 HTML5 • CSS3 • JavaScript • Bootstrap • React
 
-### Back-end — Currently Learning
+### Back-end - Currently Learning
 
 PHP • REST APIs • C
 
