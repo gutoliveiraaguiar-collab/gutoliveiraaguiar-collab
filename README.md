@@ -30,7 +30,7 @@ HTML5 • CSS3 • JavaScript • Bootstrap • React
 
 PHP • REST APIs • C
 
-### Databases — Currently Learning
+### Databases - Currently Learning
 
 SQL • Database Modeling
 
