@@ -1,32 +1,80 @@
-### Hello, I'm Gustavo Henrique 👋
+# Hi, I'm Gustavo Henrique 👋
 
-📍 **Caxias, Maranhão | Brazil**
-📧 **gutoliveira.aguiar@gmail.com**
+🎓 **Systems Analysis and Development (ADS) student** at UNIFACEMA.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-aguiar-de-oliveira-714a523b5/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gutoliveiraaguilar-collab)
+💻 **Front-end Developer in training**, currently expanding my skills into **Back-end Development and Databases**.
 
----
-
-### 🚀 About Me
-
-I'm a **Front-End** Developer in training, passionate about turning designs into clean code and responsive interfaces. Currently pursuing a degree in **Systems Analysis and Development at UNIFACEMA (Caxias/MA)**.
-
-My mission is to create digital experiences that are not only beautiful but also fast and accessible to all users. I'm always looking to improve my skills with the latest technologies in the market.
-
-- 🔭 I'm currently working on: **Academic Projects and Personal Portfolio**
-- 🌱 I'm currently learning: **React.js and TypeScript**
-- 👯 I'm looking to collaborate on: **Open Source Front-End Projects**
-- 📫 How to reach me: **gutoliveira.aguiar@gmail.com**
-
-### 🛠️ Tech Stack & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+🚀 My goal is to become a **Full Stack Developer**, building complete applications from user interfaces to APIs, business logic, and databases.
 
 ---
 
-*"Building the future of the web, one component at a time."*
+## 👨‍💻 About Me
+
+* 🎓 Systems Analysis and Development student
+* 🌐 Focused on Web Development
+* ⚛️ Currently learning React and TypeScript
+* ⚙️ **Back-end Development — Currently Learning**
+* 🗄️ **Databases & SQL — Currently Learning**
+* 🔧 Building academic and personal projects
+* 📚 Constantly learning and improving my development skills
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Front-end
+
+HTML5 • CSS3 • JavaScript • Bootstrap • React
+
+### Back-end — Currently Learning
+
+PHP • REST APIs • C
+
+### Databases — Currently Learning
+
+SQL • Database Modeling
+
+### Tools
+
+Git • GitHub • VS Code • XAMPP
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 FocusFlow
+
+A task management project built with JavaScript.
+
+### 🔹 FocusFlow Landing Page
+
+A responsive landing page created to practice modern web development.
+
+### 🔹 Educational Website Template
+
+A website interface project focused on educational content.
+
+---
+
+## 🌱 Currently Learning
+
+I'm expanding my knowledge from **Front-end Development into Back-end Development**, focusing on:
+
+* REST APIs
+* PHP
+* SQL
+* Database Design
+* Server-side Development
+* Full Stack Development
+
+---
+
+## 🎯 My Goal
+
+> Become a Full Stack Developer capable of building complete, scalable, and useful web applications.
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/gustavo-henrique-aguiar-de-oliveira-714a523b5/)
